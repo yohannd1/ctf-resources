@@ -2,7 +2,7 @@
 <name>Sonic Mania Studiopolis Glass</name>
 <description>Effect inspired by Sonic Mania's Studiopolis stage.</description>
 <author>schrodinger, EX64</author>
-<company>Lizard King, Team Deluxe</company>
+<company>Lizard King</company>
 <copyright>Free for commercial and not commercial, no attribution needed</copyright>
 <BackgroundTexture>1</BackgroundTexture>
 <parameter>
@@ -46,7 +46,7 @@
 <parameter>
 		<name>BGColor</name>
 		<code>RGB</code>
-		<description>Choose the color that the glass doesn't replace.</description>
+		<description>Choose the color that the glass won't replace.</description>
 		<type>int_float4</type>
 		<property>color</property>
                                 <value>0.0</value>
@@ -62,7 +62,7 @@
 <parameter>
 		<name>OriginalShadowColor</name>
 		<code>ORGB</code>
-		<description>Set the galss back to it's original setting.</description>
+		<description>Set the glass back to it's original color setting.</description>
 		<type>int</type>
 		<property>checkbox</property>
                                 <value>0.0</value>
