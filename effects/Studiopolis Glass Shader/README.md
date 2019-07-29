@@ -2,7 +2,7 @@
 
 **Contributors**: Schrodinger, EX64 (Shadow Rift)
 
-This effect replaces all the pixels of a sprite with a color specified by user.
+This effect replaces all the pixels of a sprite with a color specified by the user.
 
 | Parameter | Type    |
 | :-------: | :-----: |
