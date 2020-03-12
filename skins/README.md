@@ -1,5 +1,2 @@
-# ``skins\`` folder
-
-Stores skins (themes) made by us.
-
-(Currently empty)
+This folders stores some skins (themes) made for Clickteam Fusion by
+us. It's currently empty.
